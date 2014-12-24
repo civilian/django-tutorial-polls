@@ -13,8 +13,6 @@ The app is packaged and the project is on the side without the app
 
 * Version 0.01
 
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
 ### How do I get set up? ###
 
 * Summary of set up
@@ -31,9 +29,7 @@ No. Just pip to install.
 * Database configuration
 Just the installation
 
-* How to run tests
-
-* Deployment instructions
+* How to run tests: $ python manage.py test polls
 
 ### Contribution guidelines ###
 Was just a tutorial.
