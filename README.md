@@ -7,14 +7,17 @@ question, visitors can choose between a fixed number of answers.
 
 ### What is this repository for? ###
 
-* Quick summary
+* Quick summary:
+
 The app is packaged and the project is on the side without the app
 * Version 0.01
+
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
 * Summary of set up
+
 Just install it an run it:
 https://bitbucket.org/civilian/django-tutorial-polls/src/e5df46aa1f0b2e05aeb489d6e6256be827e39a37/django-polls/README.rst?at=master 
 * Configuration
@@ -28,13 +31,11 @@ Just the installation
 * Deployment instructions
 
 ### Contribution guidelines ###
+Was just a tutorial.
 
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
+
 chamatoscar@gmail.com
-* Other community or team contact
