@@ -10,6 +10,7 @@ question, visitors can choose between a fixed number of answers.
 * Quick summary:
 
 The app is packaged and the project is on the side without the app
+
 * Version 0.01
 
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
@@ -20,12 +21,16 @@ The app is packaged and the project is on the side without the app
 
 Just install it an run it:
 https://bitbucket.org/civilian/django-tutorial-polls/src/e5df46aa1f0b2e05aeb489d6e6256be827e39a37/django-polls/README.rst?at=master 
+
 * Configuration
 Not necesary.
+
 * Dependencies
 No. Just pip to install.
+
 * Database configuration
 Just the installation
+
 * How to run tests
 
 * Deployment instructions
