@@ -17,7 +17,7 @@ The app is packaged and the project is on the side without the app
 
 * Summary of set up
 
-Follow [this](django_polls/README.rst) instruccions.
+Follow [this](/django-polls/README.rst) instruccions.
 
 * Configuration
 Not necesary.
