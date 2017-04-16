@@ -17,8 +17,7 @@ The app is packaged and the project is on the side without the app
 
 * Summary of set up
 
-Just install it an run it:
-https://bitbucket.org/civilian/django-tutorial-polls/src/e5df46aa1f0b2e05aeb489d6e6256be827e39a37/django-polls/README.rst?at=master 
+Follow [this](django_polls/README.rst) instruccions.
 
 * Configuration
 Not necesary.
