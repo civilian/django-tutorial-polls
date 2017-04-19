@@ -21,9 +21,12 @@ Quick start
 
     url(r'^polls/', include('polls.urls')),
 
-3. Run `python manage.py migrate` to create the polls models.
+3. To install the app run $ pip install --user django-polls/dist/django-polls-0.1.tar.gz
+If you used virtualenv just run $ pip install django-polls/dist/django-polls-0.1.tar.gz
 
-4. Start the development server and visit http://127.0.0.1:8000/admin/
+4. Run `python manage.py migrate` to create the polls models.
+
+5. Start the development server and visit http://127.0.0.1:8000/admin/
    to create a poll (you'll need the Admin app enabled).
 
-5. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
+6. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
